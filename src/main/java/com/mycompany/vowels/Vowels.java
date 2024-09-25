@@ -12,7 +12,7 @@ public class Vowels {
 
     public static void main(String[] args) {
        //Declare variabes
-       String word;
+       String word = null;
        int number = 0;
        
        word.toLowerCase();
